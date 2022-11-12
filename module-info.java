@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ArinFog
- *
- */
-module juegodelgato {
-}
